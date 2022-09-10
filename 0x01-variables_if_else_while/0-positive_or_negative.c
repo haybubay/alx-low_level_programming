@@ -8,8 +8,8 @@
 *
 * Description: using the ain function
 * this program prints programming is positive, negative or zero
-* Return: 0
- */
+* Return:0
+*/
 int main(void)
 	n = rand() - RAND_MAX / 2;
 	/*your code goes here*/
