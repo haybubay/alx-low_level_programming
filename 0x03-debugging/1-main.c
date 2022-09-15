@@ -12,7 +12,7 @@ int main(void)
 
 	i = 0;
 	/*
-	 * whi;e (i < 10)
+	 * while (i < 10)
 	 * {
 	 * purchar(i);
 	 * }
